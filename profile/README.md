@@ -1,5 +1,6 @@
 # Yurt Page: your own homepage website for free and for freedom
 Yurt is a small house that is easy to construct.
+
 ![yurt near Issyk-Kul lake](https://upload.wikimedia.org/wikipedia/commons/4/4f/YurtIssykFamily.jpg)
 
 The YurtPage is a small homepage that all people can deploy on their own devices like router, Raspberry Pi, PC or even TV.
