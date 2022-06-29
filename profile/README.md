@@ -9,6 +9,7 @@ The main goal is to make a self hosted website as cheap as possible and typical 
 I.e. something that is not interesting for spammers and with a small amount of visitors and load.
 
 If you have friends with a YurtPage then your data will be encrypted and stored on their devices and this gives you a backup for free.
+So the bigger your social network the better is for everybody.
 This architecture improves privacy but also makes the internet more distributed and stable.
 
 See [Design documentation](https://github.com/yurt-page/docs/blob/main/README.md) for details.
