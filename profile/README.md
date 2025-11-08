@@ -10,5 +10,5 @@ If you have friends with a YurtPage then your data will be encrypted and stored 
 So the bigger your social network the better is for everybody.
 This architecture improves privacy but also makes the internet more distributed and stable.
 
-See [Design documentation](https://github.com/yurt-page/docs/blob/main/README.md) for details and join Maxtrix room #yurtpage:matrix.org or XMPP chat [yurtpage@conference.conversations.im](https://xmpp.link/#yurtpage@conference.conversations.im%3Fjoin)
+See [Design documentation](https://github.com/yurt-page/docs/blob/main/README.md) for details and join Maxtrix room [#yurtpage:matrix.org](https://matrix.to/#/#yurtpage:matrix.org) or XMPP chat [yurtpage@conference.conversations.im](https://xmpp.link/#yurtpage@conference.conversations.im%3Fjoin)
 
